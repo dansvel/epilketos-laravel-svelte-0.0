@@ -7,6 +7,13 @@ e-Pilketos, adalah aplikasi pemungutan suara (voting) untuk Pemilihan Ketua OSIS
 Aplikasi ini memiliki **sangat banyak sekali** kekurangan, karena memang hanya sekedar eksperimen.
 
 ## Screenshot
+![Login, using token. With validation and error message.](https://raw.githubusercontent.com/dansvel/epilketos-laravel-svelte-0.0/master/__screenshoot/screenshot1.jpg)
+
+![Voting page.](https://raw.githubusercontent.com/dansvel/epilketos-laravel-svelte-0.0/master/__screenshoot/screenshot2.jpg)
+
+![View detail and choose a candidate.](https://raw.githubusercontent.com/dansvel/epilketos-laravel-svelte-0.0/master/__screenshoot/screenshot3.jpg)
+
+![Live count.](https://raw.githubusercontent.com/dansvel/epilketos-laravel-svelte-0.0/master/__screenshoot/screenshot4.jpg)
 
 ## Installation
 
