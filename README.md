@@ -15,6 +15,8 @@ Aplikasi ini memiliki **sangat banyak sekali** kekurangan, karena memang hanya s
 
 ![Live count.](https://raw.githubusercontent.com/dansvel/epilketos-laravel-svelte-0.0/master/__screenshoot/screenshot4.jpg)
 
+Backend untuk adminnya belum ada, edit kandidat lewat SQL :v
+
 ## Installation
 
 Clone the repo
