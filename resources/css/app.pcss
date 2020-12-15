@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #9921e8;
+    background-image: linear-gradient(315deg, #9921e8 0%, #5f72be 74%);
+    @apply min-h-screen pt-6 pb-6 px-4;
+}
+/* purgecss start ignore */
+.marked {
+    & > * + * {
+        @apply mb-0 mt-4;
+    }
+    & p {
+        @apply text-justify;
+    }
+    & li {
+        @apply leading-relaxed;
+        & + li {
+            @apply mt-1;
+        }
+
+        & > p + p {
+            @apply mb-0 mt-2;
+        }
+    }
+    & ul {
+        @apply pl-4 list-disc;
+    }
+    & ol {
+        @apply pl-4 list-decimal;
+    }
+}
+/* purgecss end ignore */
