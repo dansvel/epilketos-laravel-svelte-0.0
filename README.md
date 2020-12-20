@@ -21,8 +21,8 @@ Backend untuk adminnya belum ada, edit kandidat lewat SQL :v
 
 Clone the repo
 ```shell script
-git clone https://github.com/dansvel/laravel-svelte.git
-cd laravel-svelte
+git clone https://github.com/dansvel/epilketos-laravel-svelte-0.0.git epilketos
+cd epilketos
 ```
 
 Install PHP dependencies:
